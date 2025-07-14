@@ -1,2 +1,2 @@
 # javacode
-javascript code with details
+this is my fist java script basic
